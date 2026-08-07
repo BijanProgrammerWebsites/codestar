@@ -11,3 +11,4 @@ jobs:
             host: codestar.ir
             base-href: /
             project-name: codestar
+        secrets: inherit
